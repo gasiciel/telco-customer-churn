@@ -1,1 +1,4 @@
 *.Rnw linguist-language=R
+*.aux linguist-language=R
+*.log linguist-language=R
+*.tex linguist-language=R
